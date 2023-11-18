@@ -28,6 +28,7 @@ main {
 }
 
 .content {
+    width: 75%;
     margin: auto;
     display: flex;
     gap: 50px;
